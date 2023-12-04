@@ -1,0 +1,45 @@
+body{
+    background-image: url("fundoPipoca.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.navbar-scroll{
+    background-color: black;
+}
+
+.navbar-black{
+    background-color: rgba(0, 0, 0, 0.7345);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.swiper {
+    width: 500px;
+    height: 400px;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+
+    object-fit: cover;
+  }
+
+/*.navbar-custom{
+    background-color: transparent !important;
+}
+
+
+
+
+

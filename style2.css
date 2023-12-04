@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(66, 5, 85)
+}
+
+.navbar-scroll{
+    background-color: black;
+}
+
+.navbar-black{
+    background-color: rgba(0, 0, 0, 0.7345);
+}
+
+div.carocel{
+    width: 75%;
+}
